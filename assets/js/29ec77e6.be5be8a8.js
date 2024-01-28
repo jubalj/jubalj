@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjubal_au=self.webpackChunkjubal_au||[]).push([[7164],{4994:a=>{a.exports=JSON.parse('{"permalink":"/jubalj/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjubal_au=self.webpackChunkjubal_au||[]).push([[8185],{8193:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/jubalj/blog/tags/hola","allTagsPath":"/jubalj/blog/tags","count":1,"unlisted":false}')}}]);
